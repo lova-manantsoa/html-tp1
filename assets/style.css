@@ -1,0 +1,33 @@
+h1{
+    color:rgb(210, 156, 30);
+    font-size: 200px;
+    text-align: center;
+}
+
+
+body{
+    background-image: url("/assets/images/renaissance.webp");
+    background-position:left 2;
+}
+
+nav ul {
+    list-style-type: none;
+    background-color:rgb(31, 11, 22);
+    
+  }
+ 
+  nav ul li {
+    display:inline ;
+  }
+ 
+  nav ul li a {
+    display:inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: purple;
+  }
+ 
+  nav ul li a:hover {
+    background-color:goldenrod;
+    text-align: center;
+  }
